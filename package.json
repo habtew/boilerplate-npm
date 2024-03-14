@@ -4,6 +4,7 @@
 	"description": "this is node.js pachage managment tutorial",
 	"keywords": ["freecodecamp", "node.js", "javascript"],
 	"license": "MIT",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
