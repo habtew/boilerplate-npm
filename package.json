@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "habtew",
 	"description": "this is node.js pachage managment tutorial",
+	"keywords": ["freecodecamp", "node.js", javascript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
